@@ -6,3 +6,4 @@ name="${1:-world}"
 echo "hello from repotest, ${name}!"
 # protection lesson test
 # protection lesson test
+# merge gate test
