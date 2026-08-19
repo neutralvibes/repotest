@@ -5,3 +5,4 @@ set -euo pipefail
 name="${1:-world}"
 echo "hello from repotest, ${name}!"
 # protection lesson test
+# protection lesson test
